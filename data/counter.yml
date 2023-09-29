@@ -1,14 +1,15 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Goals"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "High Tech Imaging"
+    number: "HTI"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Artificial Intelligence"
+    number: "AI"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Virtual & Augmented Reality"
+    number: "VAR"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Signal, Maths, ..."
+    number: "ETC"
+ 
