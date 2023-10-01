@@ -1,5 +1,5 @@
 ---
-title: "HCI - Website setup (Lab Homework-1)"
+title: "HCI - Lab Homework-1"
 date: 2023-09-24T13:45:06+06:00
 image: images/blog/blog-post-01.png
 feature_image: images/blog/blog-details-image.jpg
@@ -127,6 +127,14 @@ jobs:
 - When GitHub has finished building and deploying your site, the color of the status indicator will change to green.
 - Click on the commit message and you will see that **build** and **deploy** ran successfully. 
 - Click on the link under the **deploy** section to visit your website
+
+### Set up Unity
+
+- Install Unity Hub https://unity.com/download 
+- Connect with your account/license ( you personal license)
+- Install Unity 2022.3.2f1 through Unity Hub unityhub://2022.3.2f1/d74737c6db50 
+- Install the modules needed (build for IOS, Windows and Android)
+- Install a code editor: Visual Studio Code and the Unity plug-in 
 
 ![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
 

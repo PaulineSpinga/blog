@@ -13,7 +13,7 @@ subject : "HCI"
 
 **Good affordance**
 
-![Good_affordance](/blog/good_affordance.png)
+![Good_affordance](https://github.com/PaulineSpinga/blog/blob/ed3a1178c012c8cc39c9753c8b64dc0539e347ec/static/images/blog/HCI/good_affordance.png)
 
 An example of good affordance is the MacBook charger. Here are some key points that showcase how efficient this affordance is. 
 
@@ -61,11 +61,86 @@ grouped together.
 
 - **Law of continuity** : elements that are arranged on a line or curve are perceived to be more related than elements not on the line or curve.
 
---> One example is **Google Maps**
+###### First example: **Google Maps**
 
-https://studiousguy.com/real-life-examples-gestalt-principles/
+Google Maps has become a necessity for individuals who have shifted to a new city or for those who love to travel. Google Maps also adheres to the **rule of continuity**. When we set a destination on Google Maps, it displays the pathway from the starting point to the destination, and we follow that pathway to reach our destination.
 
+However, it is sometimes not as user-friendly as desired. Indeed, the map and arrow that indicate the path to follow aren't always oriented in the same direction as the user. When moving straight, you may observe your arrow pointing backward, creating confusion about whether you are still following the correct direction.
+
+Google should be able to provide tips to users (oral and written instructions, colors, moving icons) on correctly orienting their phones to obtain the intended sense of use.
+
+Other ideas could be : 
+
+- **AR guidance**
+Integrate augmented reality features that guide users in real-time. For instance, the camera could overlay directional indicators or arrows on the live view, providing a more immersive and intuitive navigation experience.
+
+- **Sensory Feedback**:
+Explore the use of sensory feedback, such as haptic vibrations, to provide users with tactile confirmation when they correctly orient their phones. This multisensory approach can enhance the overall user experience.
+
+###### Second example : **Closure in road sign**
+
+Closure allows us to perceive incomplete shapes as complete, filling in the gaps in visual information. It is particularly the case of road sign in which colors and shapes allow us to determine the meaning of the sign.
+
+ Due to poor design, if some parts of the sign are missing or disjointed, drivers might misinterpret the incomplete shape, leading to confusion and potential safety issues. One example could be confusing the right of way and a priority road.
+
+To correct it, here are some ideas : 
+
+- Include text in panels that are similar
+- Add lights or border around fading shapes 
+- Draw the sign on the road
+- Add audible alarm
 
 #### Lecture 3 : Dark Design Patterns
 
-Find and document two dark design pattern and discuss how you could redesign them to achieve the opposite.
+##### Find and document two dark design pattern and discuss how you could redesign them to achieve the opposite.
+
+**Dark design patterns or Deceptive patterns are tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something.**
+
+###### First example 
+
+Pop-up windows that appear and force you to accept all cookies can be frustrating. To choose the cookies you authorize or reject, you often have to search for the 'manage settings' text, which is typically hidden among other text in the pop-up that you might not read. So as not to waste time, we generally accept them even if we don't consent.
+Here are some tips to achieve the opposite. 
+
+- **Clear and Visible Options**:
+Ensure that the options to manage cookie settings, such as 'manage settings' or 'cookie preferences,' are prominently displayed. Make them easily visible so users can find them without much effort.
+- **Direct Language**: Use straightforward and direct language in the pop-up. Clearly communicate that users have the option to manage cookie settings and provide a link or button that leads directly to those settings.
+
+- **Explanatory Text**:
+Include a brief, clear explanation about why cookies are used and the impact of accepting or rejecting them. This helps users understand the purpose and make informed decisions.
+
+- **Prioritize User Control**:
+Provide granular control over cookie preferences. Allow users to easily select which types of cookies they want to accept or reject. This enhances user control and promotes trust.
+
+- **Minimize Clutter**:
+Simplify the design of the pop-up. Remove unnecessary text and visuals that can contribute to clutter and confusion. Focus on the essential information and options.
+
+- **Delayed Appearance**:
+Delay the appearance of the pop-up until users have had the chance to engage with the content. This reduces the likelihood of users feeling interrupted upon entering the site.
+Remember User Preferences:
+
+- **Implement a mechanism to remember users' cookie preferences**. This way, users won't have to set their preferences every time they visit the site, providing a smoother and more convenient experience.
+
+###### Second example 
+
+Deleting an account on Amazon or any other website may require several clicks to confirm the action. The various windows include descriptions intended to make you reconsider your decision and potentially change your mind. Some platforms also offer the option to delay the deletion process. This may annoy the user and make him even more willing to delete their account. 
+
+- **Streamlined Deletion Process**:
+Minimize the number of clicks required to delete an account. A straightforward process reduces user frustration and promotes a positive experience.
+
+- **Clear and Direct Language**:
+Use clear and direct language in the deletion confirmation messages. Avoid employing tactics that may seem manipulative or designed to make users feel regret.
+
+- **Respect User Decisions**:
+Respect the user's decision to delete their account. While it's reasonable to inform them about the consequences, avoid excessive warnings or descriptions that could be perceived as discouragement.
+
+- **Efficient Security Verification**:
+If security verification is necessary, make the process efficient and user-friendly. Use modern authentication methods that prioritize both security and convenience.
+
+- **Optional User Feedback**:
+Allow users to provide feedback on their decision to delete the account. This not only provides valuable insights for improving user experience but also gives users a sense of agency in the process. As mentionned, this step must remain *optional*
+
+- **Provide Clear Consequences**:
+Clearly outline the consequences of deleting the account, but do so in a way that is informative rather than manipulative. Users appreciate transparency, and knowing the implications can help them make informed decisions.
+
+- **Responsive Design**:
+Ensure that the account deletion process is optimized for various devices. A responsive design contributes to a smoother experience, regardless of whether users are on a desktop, tablet, or mobile device.
