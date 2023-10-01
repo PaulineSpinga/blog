@@ -9,7 +9,15 @@ subject : "HCI"
 
 #### Lecture 1 : Affordances
 
-Find and documents (Video/Picture) one bad and one good affordance in your daily life.. Explain why they are good or bad and suggest how you could fix the bad ones.
+##### Find and documents (Video/Picture) one bad and one good affordance in your daily life.. Explain why they are good or bad and suggest how you could fix the bad ones.
+
+![Good affordance](/blog/HCI/good_affordance.png)
+
+**Good affordance**
+
+
+**Bad affordance**
+
 
 #### Lecture 2 : Gestalt Laws
 
