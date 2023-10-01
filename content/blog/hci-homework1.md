@@ -13,7 +13,7 @@ subject : "HCI"
 
 **Good affordance**
 
-![Good_affordance](/blog/HCI/good_affordance.png)
+![Good_affordance](/blog/good_affordance.png)
 
 An example of good affordance is the MacBook charger. Here are some key points that showcase how efficient this affordance is. 
 
