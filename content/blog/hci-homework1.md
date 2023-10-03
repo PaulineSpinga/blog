@@ -12,8 +12,9 @@ subject : "HCI"
 ##### Find and documents (Video/Picture) one bad and one good affordance in your daily life.. Explain why they are good or bad and suggest how you could fix the bad ones.
 
 **Good affordance**
+ 
+![Logo OpenAI](https://drive.google.com/file/d/1WQA6jsCjOYaJ-2BouB0WCuJskmx6w7_s/view?usp=sharing)
 
-![Good_affordance](https://github.com/PaulineSpinga/blog/blob/ed3a1178c012c8cc39c9753c8b64dc0539e347ec/static/images/blog/HCI/good_affordance.png)
 
 An example of good affordance is the MacBook charger. Here are some key points that showcase how efficient this affordance is. 
 
