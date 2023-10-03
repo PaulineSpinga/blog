@@ -1,7 +1,7 @@
 ---
-title: "HCI - Homework 2"
+title: "HCI - Researcher"
 date: 2023-10-01T13:45:06+06:00
-image: images/blog/blog-post-01.png
+image: images/blog/HCI/blog-post-01.png
 feature_image: images/blog/blog-details-image.jpg
 author: Pauline SPINGA
 subject : "HCI"

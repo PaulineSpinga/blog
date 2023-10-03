@@ -7,5 +7,5 @@ category: ["Unity, Hugo"]
 #project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
-* [Website setup using HUGO](/blog/hci-website-setup)
+* [Website setup using HUGO](../blog/hci-setup)
 * [Homework-1](/blog/hci-homework1.md)

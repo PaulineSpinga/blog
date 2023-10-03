@@ -1,8 +1,8 @@
 ---
-title: "HCI - Lab Homework-1"
+title: "HCI - Website setup"
 date: 2023-09-24T13:45:06+06:00
-image: images/blog/blog-post-01.png
-feature_image: images/blog/blog-details-image.jpg
+image: images/blog/HCI/blog-post-01.png
+feature_image: images/blog/HCI/website.png
 author: Pauline SPINGA
 subject : "HCI"
 ---
