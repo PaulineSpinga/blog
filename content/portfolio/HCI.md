@@ -7,6 +7,6 @@ category: ["Unity, Hugo"]
 #project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
 
-* [Website setup using HUGO](/blog/hcisetup.md)
+* [Website setup using HUGO]({{<ref "/blog/hcisetup">}} "HCI - Website setup")
 
-* [Affordances](/blog/hci-affordances.md)
+* [Affordances]({{<ref "/blog/hci-affordances">}} "Affordances")
