@@ -33,7 +33,7 @@ Google Maps has become a necessity for individuals who have shifted to a new cit
 
 However, it is sometimes not as user-friendly as desired. Indeed, the map and arrow that indicate the path to follow aren't always oriented in the same direction as the user. When moving straight, you may observe your arrow pointing backward, creating confusion about whether you are still following the correct direction.
 
-Google should be able to provide tips to users (oral and written instructions, colors, moving icons) on correctly orienting their phones to obtain the intended sense of use.
+Google should be able to provide tips to users (synchronized oral and written instructions, colors, moving icons) on correctly orienting their phones to obtain the intended sense of use.
 
 Other ideas could be : 
 
@@ -43,16 +43,20 @@ Integrate augmented reality features that guide users in real-time. For instance
 - **Sensory Feedback**:
 Explore the use of sensory feedback, such as haptic vibrations, to provide users with tactile confirmation when they correctly orient their phones. This multisensory approach can enhance the overall user experience.
 
-###### Second example : **Closure in road sign**
+#### Second example : **Closure in road sign**
 
-Closure allows us to perceive incomplete shapes as complete, filling in the gaps in visual information. It is particularly the case of road sign in which colors and shapes allow us to determine the meaning of the sign.
+In general, closure allows us to perceive incomplete shapes as complete, filling in the gaps in visual information. 
 
- Due to poor design, if some parts of the sign are missing or disjointed, drivers might misinterpret the incomplete shape, leading to confusion and potential safety issues. One example could be confusing the right of way and a priority road.
+![shapes](https://i.imgur.com/lbEeQrF.png)
+
+It is particularly the case of road sign in which colors and shapes allow us to determine the meaning of the sign. Due to poor design, if some parts of the sign are missing or disjointed, drivers might misinterpret the incomplete shape, leading to confusion and potential safety issues. One example could be confusing the right of way and a priority road, but as we can observe in the image below, all triangular signs can be confused.
+
+![shapes](https://i.imgur.com/KSh3Nbs.jpg)
 
 To correct it, here are some ideas : 
 
 - Include text in panels that are similar
-- Add lights or border around fading shapes 
+- Add lights or borders around shapes that might fade
 - Draw the sign on the road
 - Add audible alarm
 
