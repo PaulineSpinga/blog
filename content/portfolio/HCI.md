@@ -6,7 +6,22 @@ image: "images/projects/HCI.png"
 category: ["Unity, Hugo"]
 #project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
+## Part 1 
 
-* [Website setup using HUGO]({{<ref "/blog/hcisetup">}} "HCI - Website setup")
+### Lab 
+* [Website setup using HUGO]({{<ref "/blog/HCI/hcisetup">}} "HCI - Website setup")
 
-* [Affordances]({{<ref "/blog/hci-affordances">}} "Affordances")
+### Works on lectures
+* [Affordances]({{<ref "/blog/HCI/hci-affordances">}} "Affordances")
+* [Gestalt Laws]({{<ref "/blog/HCI/hci-Gestalt-Laws">}} "Affordances")
+* [Dark Design Pattern]({{<ref "/blog/HCI/hci-Dark-Design-Patterns">}} "Affordances")
+
+## Part 2
+
+### Lab 
+* 
+
+### Works on lectures
+* 
+*
+*

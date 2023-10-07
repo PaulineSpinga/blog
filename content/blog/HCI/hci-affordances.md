@@ -2,23 +2,24 @@
 title: "HCI - Affordances"
 date: 2023-09-24T13:45:06+06:00
 image: images/blog/HCI/blog-post-affordance.png
-feature_image: images/blog/HCI/affordance.png
+feature_image: "images/blog/HCI/norman.png"
 author: Pauline SPINGA
 subject : "HCI"
 ---
 
-#### Lecture 1 : Affordances
+Today's article is about **affordances**. Let's define this term! An affordance refers to the inherent and perceivable properties of the environment that suggest how objects or elements in the environment can be used or interacted with by an organism. Affordances are relational properties that exist between the environment and the abilities or actions of an organism.
 
-##### Find and documents (Video/Picture) one bad and one good affordance in your daily life.. Explain why they are good or bad and suggest how you could fix the bad ones.
+In Human-Computer Interaction (HCI), the concept of affordances is crucial for designing user-friendly interfaces and interactions between humans and computer systems.
 
-**Good affordance**
+Looking around me, I could observe both good and bad affordances, which we commonly describe as "It's so handy 😃" or "It's poorly designed 😤". Let's gives some examples !
 
-![image](images/blog/HCI/good_affordance.png)
-{{<figure class="center" src="static/images/blog/HCI/good_affordance.png">}}
+### Good Affordance
+![good_affordance](https://i.imgur.com/v9DggAM.jpg)
 
-An example of good affordance is the MacBook charger. Here are some key points that showcase how efficient this affordance is. 
+An example of good affordance in my daily life is the MacBook charger. Here are some key points that showcase how efficient this affordance is. 
 
-- **Reversible connector** : It can be plugged in on either side. Users can easily plug it in without worrying about the orientation of the connector. This reduces frustration and ensures a smooth user experience.
+- **Reversible connector** : It can be plugged in on either side. Users can easily plug it in without worrying about the orientation of the connector. This reduces frustration and ensures a smooth user experience.  
+![good_affordance_video](https://i.imgur.com/xoJ0L0a.mp4)
 
 - **Indicator light** : It has the particularity of having a light that turns orange when it's plugged in and turns green when it is charging. Changing from orange to green serves as a clear and intuitive feedback mechanism. This visual cue helps users quickly understand the charging status without having to interact directly with the device.
 
@@ -30,7 +31,7 @@ The visual feedback through the changing colors reduces the cognitive load on th
 - **Accessibility**:
 The clear visual feedback is beneficial not only for users with no visibility issues but also for users with visual impairments. This type of feedback enhances the accessibility of the product.
 
-**Bad affordance**
+### Bad affordance
 
 [Watch the video : How to find your petrol cap](https://www.youtube.com/watch?v=vupgBykQnko)
 

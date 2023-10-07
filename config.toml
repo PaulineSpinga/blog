@@ -3,6 +3,7 @@ languageCode  = "en-us"
 title         = "Roxo | Creative Design Agency"
 theme         = "roxo-hugo"
 summarylength = 25
+publishDir    = "public"
 
 # Site Menus
 [menu]
@@ -30,6 +31,8 @@ summarylength = 25
 
 # Site Params
 [params]
+
+  imagesdir = "/images"
   logo = "images/logo.png"
   logo_footer = "images/logo-footer.png"
   favicon_icon = "images/favicon.ico"

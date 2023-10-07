@@ -128,15 +128,17 @@ jobs:
 - Click on the commit message and you will see that **build** and **deploy** ran successfully. 
 - Click on the link under the **deploy** section to visit your website
 
+![github_actions](https://i.imgur.com/bf0boQu.png)
+
 ### Set up Unity
 
 - Install Unity Hub https://unity.com/download 
-- Connect with your account/license ( you personal license)
+- Connect with your account/license ( choose personal license)
 - Install Unity 2022.3.2f1 through Unity Hub unityhub://2022.3.2f1/d74737c6db50 
 - Install the modules needed (build for IOS, Windows and Android)
 - Install a code editor: Visual Studio Code and the Unity plug-in 
 
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
+
 
 
 

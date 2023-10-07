@@ -7,11 +7,13 @@ author: Pauline SPINGA
 subject : "HCI"
 ---
 
-#### Lecture 2 : Gestalt Laws
+Today's article is about **Gestalt Laws**.
 
-##### Find and document two applications of Gestalt laws in your daily life (also digital) which went wrong and suggest how to correct them.
+* Gestalt laws, principles, or theories are psychological concepts that describe how humans perceive and make sense of visual information. 
+* The term "Gestalt" comes from the German word meaning "shape" or "form," and these principles were developed by a group of German psychologists in the early 20th century. 
+* The Gestalt laws highlight the ways in which people tend to organize visual elements into groups or unified wholes. 
 
-Gestalt laws, principles, or theories are psychological concepts that describe how humans perceive and make sense of visual information. The term "Gestalt" comes from the German word meaning "shape" or "form," and these principles were developed by a group of German psychologists in the early 20th century. The Gestalt laws highlight the ways in which people tend to organize visual elements into groups or unified wholes. Here are some key Gestalt principles tackled in class : 
+**Here are some key Gestalt principles tackled in class**
 
 - **Law of proximity** : things that are close together appear to be more related than things that are spaced farther apart.
 - **Law of Similarity** : when things appear to be similar to each other, we group 
@@ -23,9 +25,11 @@ grouped together.
 
 - **Law of continuity** : elements that are arranged on a line or curve are perceived to be more related than elements not on the line or curve.
 
-###### First example: **Google Maps**
+#### First example: **Google Maps**
 
 Google Maps has become a necessity for individuals who have shifted to a new city or for those who love to travel. Google Maps also adheres to the **rule of continuity**. When we set a destination on Google Maps, it displays the pathway from the starting point to the destination, and we follow that pathway to reach our destination.
+
+![Google Maps](https://i.imgur.com/0dAyREs.png)
 
 However, it is sometimes not as user-friendly as desired. Indeed, the map and arrow that indicate the path to follow aren't always oriented in the same direction as the user. When moving straight, you may observe your arrow pointing backward, creating confusion about whether you are still following the correct direction.
 
