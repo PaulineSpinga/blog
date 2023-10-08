@@ -14,12 +14,12 @@ category: ["Unity, Hugo"]
 ### Works on lectures
 * [Affordances]({{<ref "/blog/HCI/hci-affordances">}} "Affordances")
 * [Gestalt Laws]({{<ref "/blog/HCI/hci-Gestalt-Laws">}} "Affordances")
-* [Dark Design Pattern]({{<ref "/blog/HCI/hci-Dark-Design-Patterns">}} "Affordances")
+* [Dark Design Pattern]({{<ref "/blog/HCI/hci-Dark-Design-Patterns">}} "Dark design patterns")
 
 ## Part 2
 
 ### Lab 
-* 
+* [Unity Game]({{<ref "/blog/HCI/hci-unitygame">}} "Unity Game")
 
 ### Works on lectures
 * 

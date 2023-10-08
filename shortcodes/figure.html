@@ -1,6 +1,0 @@
-{{ $class := .Get "class" }}
-{{ $src := .Get "src" }}
-
-<figure class="{{ $class }}">
-  <img src="{{ $src | absURL }}" alt="{{ .Get "alt" }}">
-</figure>

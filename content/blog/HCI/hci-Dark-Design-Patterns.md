@@ -44,7 +44,15 @@ Remember User Preferences:
 
 #### Second example : Account deletion / Unsubscribe from newsletter
 
-Deleting an account on any website or unsubscribe from newsletter may require several clicks to confirm the action. The various windows include descriptions intended to make you reconsider your decision and potentially change your mind. Moreover, the delete/unsubscribe button is often hidden among other text and information, making it harder to detect. Some platforms also offer the option to delay the deletion process. Sometimes, you can also be asked to justify your action, adding some more click to achieve your goal. This may annoy the user and make him even more willing to delete their account. 
+Deleting an account on any website or unsubscribe from newsletter may require several clicks to confirm the action. The various windows include descriptions intended to make you reconsider your decision and potentially change your mind. 
+
+![unsubscribe](https://i.imgur.com/NcSqNLZ.png)
+
+Moreover, the delete/unsubscribe button is often hidden among other text and information, making it harder to detect. 
+
+![hidden](https://i.imgur.com/pFmpCMj.png)
+
+Some platforms also offer the option to delay the deletion process. Sometimes, you can also be asked to justify your action, adding some more confusing clicks to achieve your goal. This may annoy the user and make them click the wrong button, making him even more willing to delete their account. 
 
 - **Streamlined Deletion Process**:
 Minimize the number of clicks required to delete an account or unsubscribe. A straightforward process reduces user frustration and promotes a positive experience.
