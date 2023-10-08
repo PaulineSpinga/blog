@@ -18,7 +18,7 @@ Some of the issues I encountered :
 
 Here is a demo of the game : 
 
-![demo]()
+![demo](https://i.imgur.com/lgouSlH.mp4)
 
 
 

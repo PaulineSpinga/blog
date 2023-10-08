@@ -1,17 +1,18 @@
 ---
 title: "HCI - Ultimate Display"
 date: 2023-10-02T13:45:06+06:00
-image: images/blog/HCI/blog-post-01.png
-feature_image: images/blog/blog-details-image.jpg
+image: images/blog/HCI/Ivan_square.png
+feature_image: images/blog/HCI/Ivan.png
 author: Pauline SPINGA
 subject : "HCI"
 ---
-#### Lecture 5 : Read the ultimate Display by Ivan Sutherland
+____________________________________________
+### The ultimate Display by Ivan Sutherland
+____________________________________________
 
+[Read the text](http://worrydream.com/refs/Sutherland%20-%20The%20Ultimate%20Display.pdf)
 
-http://worrydream.com/refs/Sutherland%20-%20The%20Ultimate%20Display.pdf
-
-##### Read and discuss what Ivan Sutherland was able to predict that currently already happening and try to think what of his vision could potentially become reality in the future
+*Read and discuss what Ivan Sutherland was able to predict that currently already happening and try to think what of his vision could potentially become reality in the future* 
 
 Ivan Sutherland's vision, as outlined in "The Ultimate Display," was remarkably prescient and has influenced the trajectory of computer science and technology. Many of his ideas have not only become reality but have also shaped contemporary developments. Let's discuss what Sutherland predicted that has already happened and explore the potential future realization of his visionary concepts:
 

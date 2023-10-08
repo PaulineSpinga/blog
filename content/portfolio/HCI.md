@@ -20,6 +20,8 @@ category: ["Unity, Hugo"]
 
 ### Lab 
 * [Unity Game]({{<ref "/blog/HCI/hci-unitygame">}} "Unity Game")
+* [HCI Researcher]({{<ref "/blog/HCI/hci-researcher">}} "HCI researcher")
+* [Ultimate Display]({{<ref "/blog/HCI/hci-ultimate-display">}} "HCI Ultimate Display")
 
 ### Works on lectures
 * 

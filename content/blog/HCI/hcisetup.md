@@ -124,7 +124,14 @@ jobs:
 
 - Commit the change to your local repository with a commit message “Add workflow”, and push to GitHub.
 - From GitHub’s main menu, choose Actions. You will see the **Add workflow** in progress with an orange item. 
+
+![orange](https://i.imgur.com/kMpEwPm.png)
+
+
 - When GitHub has finished building and deploying your site, the color of the status indicator will change to green.
+
+![green](https://i.imgur.com/ZvNIwcE.png)
+
 - Click on the commit message and you will see that **build** and **deploy** ran successfully. 
 - Click on the link under the **deploy** section to visit your website
 
