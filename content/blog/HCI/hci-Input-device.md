@@ -1,60 +1,38 @@
 ---
-title: "HCI - Input Devices and Interaction Paradigms"
+title: "HCI - Input Devices - Interaction Paradigms"
 date: 2023-10-03T13:45:06+06:00
-image: images/blog/HCI/blog-post-01.png
-feature_image: images/blog/blog-details-image.jpg
+image: images/blog/HCI/input_device.png
+feature_image: images/blog/HCI/connected_devices.png
 author: Pauline SPINGA
 subject : "HCI"
 ---
-#### Lecture 6 : Input Devices and Interaction Paradigms 
-
-#####  Present and classify (what type of User Interface) ONE new or failed input device / technique that was presented in research and media. Discuss why you think the input device did not succeed (failed one) or why it will / won't succeed in the future (new one).
 
 https://www.youtube.com/user/acmsigchi
 
 
-#### Leap Motion Controller - A New Input Device
+Connected coffee machines and toasters that can be remotely controlled via a smartphone app represent an interesting innovation in the realm of kitchen appliances. These devices are part of the broader trend of the Internet of Things (IoT), which aims to bring connectivity and convenience to everyday objects. While they have not necessarily "failed," they have faced challenges and considerations that affect their adoption and long-term success.
 
-**Type:** Gesture-based Input Device
+These connected kitchen appliances typically use a combination of mobile applications and cloud-based platforms to allow users to remotely control them. The user interface can be considered a combination of a graphical user interface (GUI) in the smartphone app and voice commands in some instances (e.g., through virtual assistants like Amazon Alexa or Google Assistant). Users can control settings, monitor progress, and receive notifications via their smartphone, making it a mix of mobile app and voice control interfaces. 
 
-##### Overview
-The Leap Motion Controller is a gesture-based input device that gained attention for its promise to provide a touchless, three-dimensional interaction experience. It was designed to track hand and finger movements with high precision, allowing users to control computer applications through gestures in the air. The device was small, affordable, and intended to offer a novel way to interact with digital content.
+#### Advantages
+The primary selling point of these devices is convenience. Users can start brewing coffee or toasting bread from their bed or while still on their way home, saving time in their morning routine. As well for the toaster that can also print weather situation of toats. Moreover, the smartphone app often allows for customization of settings like brew strength, toasting time, or even scheduling. This level of personalization can enhance the user experience.
+The ability to monitor the status of the appliance remotely can be particularly useful. For instance, users can check if the coffee is ready or if the toaster is done without being in the kitchen.
 
-**Classification:**
-- **Type of User Interface:** Gesture-based User Interface
+#### Limits
+If at first sight they might represent a breakthrough, these appliancies might not succeed in the future for several reasons : 
 
-##### Reasons for Limited Success
+* **Cost**: Connected coffee machines and toasters tend to be more expensive than their traditional counterparts. The added cost may deter some consumers, especially if they do not see the value in remote control.
 
-1. **Limited Applications:**
-   - The Leap Motion Controller faced challenges in terms of finding widespread application. While it was intriguing for specific tasks or demonstrations, it struggled to become an essential input method for everyday computing tasks.
+* **Complexity**: While the technology is convenient, it can also introduce complexity. Users may find it cumbersome to connect their appliances to Wi-Fi networks, set up the mobile app, and troubleshoot connectivity issues.
 
-2. **Accuracy and Reliability:**
-   - Despite its promising technology, the Leap Motion Controller struggled with consistent accuracy and reliability, especially in more complex and varied real-world scenarios. Users reported instances of misinterpretation and difficulty in maintaining precise control.
+* **Security Concerns**: IoT devices have faced security vulnerabilities and breaches in the past. Users may be hesitant to connect kitchen appliances to the internet due to concerns about privacy and potential hacking.
 
-3. **Lack of Developer Support:**
-   - The success of such devices often relies on robust developer support and a thriving ecosystem of applications. The Leap Motion Controller struggled to attract widespread developer interest, limiting the creation of compelling and functional applications that could showcase its capabilities.
+* **Dependency on Technology**: These devices are heavily reliant on the availability of the internet and the functioning of the associated smartphone app. If there are connectivity issues or if the app becomes obsolete, it could render the appliances less functional.
 
-4. **Competition from Established Input Methods:**
-   - The Leap Motion Controller faced stiff competition from established input methods like traditional mice, touchscreens, and keyboards, which were deeply ingrained in users' habits. Convincing users to adopt a new and different interaction paradigm proved challenging.
+* **Limited Use Cases**: Some users may question the practicality of remotely controlling coffee machines and toasters, as these tasks are relatively quick and straightforward. The value proposition may not be as strong as with other IoT devices.
 
-##### Future Considerations
+* **Lack of interest** : The lack of interest in manually preparing coffee or breakfast can often be attributed to the convenience that technology offers. In today's fast-paced world, people are increasingly turning to automation to simplify their daily routines. With the rise of connected kitchen appliances and smartphone-controlled devices, the pleasure once derived from crafting a morning brew or flipping a slice of toast may give way to a desire for efficiency. This shift reflects society's growing reliance on technology to handle even the most mundane tasks, sometimes at the cost of the simple joys and sensory experiences that traditionally accompanied the preparation of meals.
 
-While the Leap Motion Controller faced challenges and may be considered a device that did not achieve mainstream success, the concept of gesture-based interfaces remains relevant. Advancements in computer vision and sensor technologies continue, and newer iterations of gesture-based devices may address the limitations that impacted the Leap Motion Controller.
+* **Environmental issue** : Connected toasters and coffee machines increase electricity consumption due to their continuous connectivity, potentially relying on fossil fuels for power generation if energy-efficient designs and usage patterns are not prioritized. The manufacturing and materials used in these appliances can have a significant environmental impact, from the extraction of raw materials to waste production. Finally, the digital infrastructure supporting these appliances, including smartphone apps and cloud platforms, consumes electricity. Sustainable data management practices are vital to mitigate the environmental impact of the digital aspect of these devices.
 
-**Potential Future Success Factors:**
-
-1. **Improved Accuracy and Reliability:**
-   - Future devices need to provide more accurate and reliable tracking to ensure a seamless user experience. Advancements in sensor technologies could contribute to overcoming previous limitations.
-
-2. **Expanded Application Ecosystem:**
-   - Successful adoption often depends on a diverse and compelling range of applications. A new gesture-based device should garner support from developers across various domains to create applications that genuinely leverage its capabilities.
-
-3. **Integration with Existing Systems:**
-   - Seamless integration with existing computing environments and interoperability with established input methods could contribute to the adoption of new input devices.
-
-4. **User Education and Experience Design:**
-   - Clear communication of the benefits and usage scenarios, coupled with intuitive and user-friendly design, can contribute to user acceptance. Education about the potential advantages of gesture-based interfaces will be essential.
-
-In conclusion, while the Leap Motion Controller faced challenges leading to limited success, it contributes to the ongoing exploration of alternative input methods. Future success in this domain will likely depend on overcoming technical limitations, fostering developer support, and aligning with evolving user expectations.
-
-
+In summary, while connected coffee machines and toasters have not necessarily failed, their long-term success will depend on addressing cost concerns, improving ease of use, enhancing security measures, and demonstrating the real value of remote control in the kitchen. As IoT technology continues to advance and integrate with other smart home devices, the appeal of these appliances may increase. However, their adoption may not be as widespread as some other smart home innovations.
