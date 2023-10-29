@@ -27,7 +27,7 @@ Ivan Sutherland's "Ultimate Display" vision, as showcased in his influential ess
 
 **Potential Future Realization**
 
-**Multi-Sensory Displays**: Sutherland suggested that displays should engage as many senses as possible. While sight and sound have been extensively explored, the integration of other senses like touch and even smell could be areas of future development, creating more immersive and realistic experiences.
+**Multi-Sensory Displays**: Sutherland suggested that displays should engage as many senses as possible. While sight and sound have been extensively explored, the integration of other senses like touch and even smell could be areas of future developments, creating more immersive and realistic experiences.
 
 **Advanced Kinesthetic Displays**: Sutherland discussed the force required to move a joystick and the potential for a kinesthetic display. Future developments might involve more sophisticated kinesthetic displays, allowing users to interact with virtual objects with a higher degree of realism.
 

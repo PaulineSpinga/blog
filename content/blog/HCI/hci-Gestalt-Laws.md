@@ -37,7 +37,7 @@ Google should be able to provide tips to users (synchronized oral and written in
 
 Other ideas could be : 
 
-- **AR guidance**
+- **AR guidance**: 
 Integrate augmented reality features that guide users in real-time. For instance, the camera could overlay directional indicators or arrows on the live view, providing a more immersive and intuitive navigation experience.
 
 - **Sensory Feedback**:

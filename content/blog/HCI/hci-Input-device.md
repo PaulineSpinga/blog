@@ -1,6 +1,6 @@
 ---
 title: "HCI - Input Devices - Interaction Paradigms"
-date: 2023-10-03T13:45:06+06:00
+date: 2023-10-04T13:45:06+06:00
 image: images/blog/HCI/input_device.png
 feature_image: images/blog/HCI/connected_devices.png
 author: Pauline SPINGA
@@ -12,10 +12,10 @@ https://www.youtube.com/user/acmsigchi
 
 Connected coffee machines and toasters that can be remotely controlled via a smartphone app represent an interesting innovation in the realm of kitchen appliances. These devices are part of the broader trend of the Internet of Things (IoT), which aims to bring connectivity and convenience to everyday objects. While they have not necessarily "failed," they have faced challenges and considerations that affect their adoption and long-term success.
 
-These connected kitchen appliances typically use a combination of mobile applications and cloud-based platforms to allow users to remotely control them. The user interface can be considered a combination of a graphical user interface (GUI) in the smartphone app and voice commands in some instances (e.g., through virtual assistants like Amazon Alexa or Google Assistant). Users can control settings, monitor progress, and receive notifications via their smartphone, making it a mix of mobile app and voice control interfaces. 
+These connected kitchen appliances typically use a combination of mobile applications and cloud-based platforms to allow users to remotely control them. The user interface can be considered a combination of a graphical user interface (GUI) in the smartphone app and voice commands in some instances (through virtual assistants like Amazon Alexa or Google Assistant). Users can control settings, monitor progress, and receive notifications via their smartphone, making it a mix of mobile app and voice control interfaces. 
 
 #### Advantages
-The primary selling point of these devices is convenience. Users can start brewing coffee or toasting bread from their bed or while still on their way home, saving time in their morning routine. As well for the toaster that can also print weather situation of toats. Moreover, the smartphone app often allows for customization of settings like brew strength, toasting time, or even scheduling. This level of personalization can enhance the user experience.
+The primary selling point of these devices is convenience. Users can start brewing coffee or toasting bread from their bed or while still on their way home, saving time in their morning routine. As well for the toaster that can also print weather situation on toats. Moreover, the smartphone app often allows for customization of settings like brew strength, toasting time, or even scheduling. This level of personalization can enhance the user experience.
 The ability to monitor the status of the appliance remotely can be particularly useful. For instance, users can check if the coffee is ready or if the toaster is done without being in the kitchen.
 
 #### Limits

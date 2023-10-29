@@ -20,7 +20,7 @@ Shumin Zhai is a Chinese-born American Canadian HCI research scientist and inven
 Here are some key points about his school career : 
 * 1982: Bachelor's degree in Electrical Engineering
 * 1984: Master's degree in Computer Science, from Xidian University.
-* Until 1989: Served on the faculty of the Northwest Institute of Telecommunication Engineering in Xi'an, China where he taught and conducted research in computer control systems until . 
+* Until 1989: Served on the faculty of the Northwest Institute of Telecommunication Engineering in Xi'an, China where he taught and conducted research in computer control systems.
 * 1995: PhD degree in Human Factors Engineering at the University of Toronto. His PhD allowed him to solidify his academic foundation for his impactful career
 
 #### Awards and Honor
@@ -30,7 +30,7 @@ Dr. Zhai's publications have won the ACM UIST Lasting Impact Award and the IEEE 
 * IEEE Computer Society Best Paper Award
 * 2006: Was named one of ACM's inaugural class of Distinguished Scientists
 * 2010: he was named Member of the CHI Academy and Fellow of the ACM
-* 2014 : ACM UIST Lasting Impact Award. 
+* 2014 : ACM UIST Lasting Impact Award
 
 #### Career 
 

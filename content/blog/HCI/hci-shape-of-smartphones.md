@@ -45,8 +45,6 @@ On the contrary, in the realm of display size, the mantra "bigger is better" oft
 
 ![display](https://i.imgur.com/zFd9Wibl.png)
 
-https://www.gsmarena.com/mobile_phone_evolution-review-493p6.php
-
 During the early 2000s, the introduction of slide and flip phones represented a significant advancement in cell phone design. These innovative designs offered a combination of larger screens while maintaining a compact form when the phone was not in use. Slide-out keyboards were also integrated into some of these models, providing users with an easier and more tactile method of text input. In terms of affordance, these phones addressed the limitations of early touchscreens, which often required users to tap multiple times to input a single letter. The physical keyboard on slide and flip phones allowed for quicker and more accurate text input, making them a more practical choice for messaging and data entry. However, the challenge remained in designing keyboards that were small enough to fit the compact form factor of these devices while ensuring that users could accurately target the right keys. This delicate balance between size and usability was a central concern in the design of these mobile devices during that era.
 
 

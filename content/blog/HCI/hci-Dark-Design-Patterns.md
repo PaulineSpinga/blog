@@ -11,7 +11,7 @@ subject : "HCI"
 
 #### First example : pop-up window and cookies 🍪
 
-Pop-up windows that appear and force you to accept all cookies can be frustrating. To choose the cookies you authorize or reject, you often have to search for the 'manage settings' text, which is typically hidden among other text in the pop-up that you might not read. To save time, we generally accept them even if we don't consent. One example I often encounter is the[Marmiton](https://www.marmiton.org) website, known for its recipes. The pop-up window appears as soon as you enter the website. Then you have 3 options : 
+Pop-up windows that appear and force you to accept all cookies can be frustrating. To choose the cookies you authorize or reject, you often have to search for the 'manage settings' text, which is typically hidden among other text in the pop-up that you might not read. To save time, we generally accept them even if we don't consent. One example I often encounter is the [Marmiton](https://www.marmiton.org) website, known for its recipes. The pop-up window appears as soon as you enter the website. Then you have 3 options : 
 * Accept 🍪
 * Decline 🍪
 * Manage 🍪  
@@ -38,9 +38,8 @@ Simplify the design of the pop-up. Remove unnecessary text and visuals that can 
 
 - **Delayed Appearance**:
 Delay the appearance of the pop-up until users have had the chance to engage with the content. This reduces the likelihood of users feeling interrupted upon entering the site.
-Remember User Preferences:
 
-- **Implement a mechanism to remember users' cookie preferences**. This way, users won't have to set their preferences every time they visit the site, providing a smoother and more convenient experience.
+- **Implement a mechanism to remember users' cookies preferences**. This way, users won't have to set their preferences every time they visit the site, providing a smoother and more convenient experience.
 
 #### Second example : Account deletion / Unsubscribe from newsletter
 
@@ -67,7 +66,7 @@ Respect the user's decision. While it's reasonable to inform them about the cons
 If security verification is necessary, make the process efficient and user-friendly. Use modern authentication methods that prioritize both security and convenience.
 
 - **Optional User Feedback**:
-Allow users to provide feedback on their decision. This not only provides valuable insights for improving user experience but also gives users a sense of agency in the process. As mentionned, this step must remain *optional*
+Allow users to provide feedback on their decision. This not only provides valuable insights for improving user experience but also gives users a sense of agency in the process. As mentionned, this step must remain *optional*.
 
 - **Provide Clear Consequences**:
 Clearly outline the consequences of deleting the account, but do so in a way that is informative rather than manipulative. Users appreciate transparency, and knowing the implications can help them make informed decisions.

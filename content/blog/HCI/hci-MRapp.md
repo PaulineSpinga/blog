@@ -1,14 +1,32 @@
 ---
 title: "HCI - MR app store"
-date: 2023-10-24T13:45:06+06:00
-image: images/blog/HCI/computer21st-blog.png
-feature_image: "images/blog/HCI/"
+date: 2023-10-29T13:45:06+06:00
+image: images/blog/HCI/MRApp.png
+feature_image: images/blog/HCI/MR.png
 author: Pauline SPINGA
 subject : "HCI"
 ---
 
-People often like to discuss "killer apps" for mixel reality. However, this implies that there was a specific application that makes me want to buy an MR HMD. Instead try to think about the following : 
+In a future where Mixed Reality Head-Mounted Displays (MR HMDs) are as ubiquitous as smartphones, the app store for MR devices would be a hub for innovative applications that merge the digital and physical worlds seamlessly. These apps would enhance our daily lives, work, and entertainment experiences. Here are several potential applications that I believe would be among the most downloaded:
 
-Imagine a future where MR HMD are as ubiquitous as smartphones. Think about the future app store. Sketch and present there applications that you think will be among the most doqnloaded. Explain why you thunk this might be the case ? 
+1. **MR Sports and Fitness:** Fitness enthusiasts would have access to immersive workouts, sports simulations, and personalized coaching through MR. The desire to make physical activities more enjoyable and effective would lead to the popularity of these apps. No longer would you need to go to the gym; your living room, your garden, or even your grandma's garage could become your gym. With MR, you can have your personal fitness coach displayed in your chosen environment, teaching you the exercises you need. Thanks to haptic feedback, you'll be able to improve your movements and posture. MR will allow you to simulate any environment in which you feel most comfortable practicing: in the heart of the Amazonian Forest, on top of a mountain, on a skyscraper with a panoramic view of a waterfall, or simply in a serene, flowery garden. Furthermore, MR sports and fitness applications would seamlessly connect to various sports devices and sensors to provide real-time feedback and data analysis. For instance, you can link your heart rate monitor, smartwatch, or even specialized sports equipment to your MR headset. This connectivity not only tracks your performance but also personalizes your training. If you're aiming to improve your golf swing, MR can analyze your motion, provide corrective guidance, and track your progress over time. It could even simulate different weather conditions for your outdoor activities to ensure you're prepared for any situation. These applications will revolutionize the way we engage with sports and fitness, making it more accessible, personalized, and engaging.
 
-MR text translation 
+![MR sport](https://i.imgur.com/u7KDxDj.png)
+
+2. **Mixed Reality Social Networking (MRSN):** Much like social media today, MRSN would be a massive hit. It would allow users to connect and interact with friends, family, and colleagues in a shared digital environment. People could meet up in virtual spaces, attend virtual parties, or collaborate on projects in a digital workspace, creating a new dimension of social interaction. The appeal lies in bringing people together, regardless of geographical distances, making physical presence or conventional video calls a thing of the past. Imagine no longer using FaceTime or Zoom for communication; instead, you can project lifelike holograms or avatars of yourself. Whether you want to visit a client or have a heart-to-heart chat with your best friend, proximity won't matter anymore. MRSN would enable rich, immersive social experiences that transcend the limitations of current online interactions, fostering genuine human connections.
+
+![MR com](https://i.imgur.com/OEmQyCf.png)
+
+3. **MR Language Translation and Communication:** The ability to translate foreign languages in real time and engage in seamless multilingual communication would be a significant driver for MR HMD adoption. These apps would cater to travelers, business professionals, and anyone looking to bridge language barriers. With connected glasses, you will be able to read subtitles when a person is speaking a foreign language, then choose to translate it into your native language or not. Learning a new language will become easier as MR and AI will enable the creation of avatars with whom you can practice conversational skills. Furthermore, computer vision advancements can analyze your surroundings and generate vocabulary quizzes based on the objects you see. While practicing handwriting, your glasses can recognize your text and provide real-time feedback on any mistakes, enhancing the language learning experience. MR will revolutionize language translation and communication, making the world more interconnected and accessible.
+
+![MR learn language](https://i.imgur.com/aEPNWsr.png)
+
+4. **MR Shopping and Retail**: Online shopping will take on a new dimension with MR. Shoppers can immerse themselves in a virtual store, trying on clothing and makeup through their avatars. This not only enhances the shopping experience but also reduces the chances of buying items that don't fit or suit your style. You can say goodbye to crowded malls and dressing rooms. Moreover, MR will enable you to visualize how furniture fits into your home, experiment with different wallpapers and decoration items, and inspect products in fine detail before deciding to make a purchase. These applications offer unparalleled convenience and experience-enhancing features, making them immensely popular. With MR shopping and retail, consumers can make more informed choices, leading to increased satisfaction and reduced returns.
+
+![MR learn language](https://i.imgur.com/oHaJm1d.png)
+
+5. **MR Learning and Training:** Educational and training applications will revolutionize the way we learn and develop new skills. These apps offer immersive learning experiences, taking students on virtual history tours, facilitating interactive language learning, and providing hands-on medical simulations. The appeal of MR learning and training lies in their ability to engage learners and make the educational process memorable. Imagine studying history by virtually traveling to ancient Egyptian pyramids or exploring the grandeur of the Roman Empire. You can embark on virtual journeys around the world, visiting foreign countries and inaccessible places, all without leaving the comfort of your room. MR eliminates the need for physical travel while expanding the horizons of knowledge and skills. This immersive approach to learning will be highly downloaded, benefiting learners of all ages and fields of study.
+
+![MR travel](https://i.imgur.com/RMZMqvf.png)
+
+These applications would dominate the MR app store due to their transformative potential and their ability to make everyday tasks more engaging, convenient, and efficient. As MR HMDs become as common as smartphones, the demand for innovative MR applications that enhance various aspects of our lives would be substantial.

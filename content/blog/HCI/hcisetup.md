@@ -173,7 +173,7 @@ To use the Roxo Template it is important to better understand how it works.
 ![Scene](https://i.imgur.com/NIcTdnr.png)
 * Organize your asset folder by creating subfolders such as : **Prefab**, **Materials**, **Objects**, **Audio**, **Scripts**
 * A prefab contains elements that you want to reuse in other scenes or projects. Modifying the prefab will affect its instances, but new instances are independent of each other, and modifying them does not change the original prefab
-* Materials will contain images that you will apply apply on your objects to give them colors and textures
+* Materials will contain images that you will apply on your objects to give them colors and textures
 * Scripts : will contain C# scripts that will be applied to your objects and that you will edit with the code editor previously downloaded
 
 

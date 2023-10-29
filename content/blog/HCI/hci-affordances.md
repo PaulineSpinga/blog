@@ -39,11 +39,8 @@ One situation all drivers have already encountered is the struggle to find on wh
 
 Here are some suggestions to fix this issue : 
 
-
-Absolutely, this is a common situation that many drivers can relate to. To address this challenge, some car manufacturers have implemented a simple and effective solution: a small arrow next to the fuel gauge on the dashboard.
-
 - **Fuel Gauge Indicator**:
-Putting on the fuel gauge on the dashboard, a small arrow pointing to the side of the car where the fuel cap is located. Many car manufacturers have adopted this standardized design.This arrow is often accompanied by a fuel pump icon. This design choice is intuitive and user-friendly. Drivers can quickly glance at the dashboard to determine which side of the car the fuel cap is on without needing to get out of the vehicle. The presence of the arrow helps to reduce confusion, especially for drivers who may be using a rental car or borrowing a vehicle. It simplifies the refueling process and contributes to a positive user experience.
+Putting on the fuel gauge on the dashboard, a small arrow pointing to the side of the car where the fuel cap is located. Many car manufacturers have adopted this standardized design. This arrow is often accompanied by a fuel pump icon. This design choice is intuitive and user-friendly. Drivers can quickly glance at the dashboard to determine which side of the car the fuel cap is on without needing to get out of the vehicle. The presence of the arrow helps to reduce confusion, especially for drivers who may be using a rental car or borrowing a vehicle. It simplifies the refueling process and contributes to a positive user experience.
 In addition, the use of a universally recognized symbol (fuel pump) and a directional arrow adds to the simplicity of the design. Drivers from different regions or with varying language proficiencies can easily understand the information. This feature is particularly helpful for new drivers who may not yet be familiar with the specific details of their vehicle. It promotes a smooth and stress-free experience at the gas station.
 - **3D representation of the car**: Before switching off the car, allow it to display a representation of the car highlighting the fuel cap and indicating where the pump is located. It will indicate whether the driver is in the right direction and could also help determine if they are not too far from the pump. 
 
