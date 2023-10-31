@@ -20,10 +20,27 @@ category: ["Unity, Hugo"]
 
 ### Lab 
 * [Unity Game]({{<ref "/blog/HCI/hci-unitygame">}} "Unity Game")
-* [HCI Researcher]({{<ref "/blog/HCI/hci-researcher">}} "HCI researcher")
-* [Ultimate Display]({{<ref "/blog/HCI/hci-ultimate-display">}} "HCI Ultimate Display")
+
 
 ### Works on lectures
-* 
-*
-*
+* [HCI Researcher]({{<ref "/blog/HCI/hci-researcher">}} "HCI researcher")
+* [Ultimate Display]({{<ref "/blog/HCI/hci-ultimate-display">}} "HCI Ultimate Display")
+* [Input Devices and Interaction Paradigms]({{<ref "/blog/HCI/hci-Input-device">}} "Input Devices and Interaction Paradigms")
+
+## Part 3
+
+### Lab 
+* [Deploy Mobile application]({{<ref "">}} )
+
+### Works on lectures
+* [Enhancing human abilities in the age of AR]({{<ref "/blog/HCI/hci-ideate">}})
+
+## Part 4
+
+### Lab 
+* [VR interaction]({{<ref "hci-VRapp">}} )
+
+### Works on lectures
+* [The shape of smartphones]({{<ref "/blog/HCI/hci-shape-of-smartphones">}})
+* [The computer for the 21st Century]({{<ref "/blog/HCI/hci-computer-for-the-21st">}})
+* [Most downloaded application in the future MR app store]({{<ref "/blog/HCI/hci-MRapp">}})

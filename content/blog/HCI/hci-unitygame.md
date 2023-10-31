@@ -1,5 +1,5 @@
 ---
-title: "HCI - Unity game"
+title: "HCI - Roll a ball game"
 date: 2023-10-01T13:45:06+06:00
 image: images/blog/HCI/blog-post-unity.png
 feature_image: images/blog/HCI/unity.png
@@ -265,4 +265,27 @@ public class PlayerController : MonoBehaviour
 * You can build and test your build where you saved it.
 
 Well done, you've created your very first unity game !
+
+## Deploy the game as a mobile application 
+
+I tried to deploy my game as a mobile application but I encountered some issues. 
+I followed these steps : https://docs.unity3d.com/Manual/iphone-BuildProcess.html
+
+
+* I downloaded XCode and plugged my iPhone to my Mac
+* I enabled the Developer Mode on my iPhone : 
+![dev mode](https://i.imgur.com/qQRnISa.png)
+
+* I built and run my Unity Game for iOs :
+![xCode project](https://i.imgur.com/nr7TtGu.png)
+
+* Then, from the xCode folder, I ran the following command : 
+``unity$ xcodebuild test -destination "platform=iOS,id=<device-id>" -scheme Unity-iPhone``
+where <device-id> is my id
+
+* An Xcode window appeared, indicating **Build failed** and the following error I couldn't fix : 
+![error](https://i.imgur.com/rp3jTRW.png)
+
+
+
 

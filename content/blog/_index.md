@@ -5,5 +5,6 @@ description : "Some of my projects and labs"
 subjects:
   - Unity
   - HCI
+  - Blender
 ---
 
